@@ -1,4 +1,5 @@
-# mobile-II <br>
+# Atividades de dispositivos móveis <br>
 
-**Aluna:** Jackeline de Paula Lima <br>
+**Aluno:** Pedro Lucas Zuccari Sousa <br>
 **Turma:** Sistemas para internet 6º semestre
+
